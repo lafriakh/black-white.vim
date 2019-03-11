@@ -16,6 +16,6 @@
 
 ## Screenshots
 
-![Black & White](black-white-screeshot.png)
+![Black & White](screenshots/black-white-screeshot.png)
 
 TODO

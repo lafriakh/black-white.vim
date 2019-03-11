@@ -5,7 +5,7 @@ endif
 
 set background=light
 set t_Co=256
-let g:colors_name = "blackwhite"
+let g:colors_name = "black-white"
 
 hi SpecialKey     cterm=NONE	 ctermfg=NONE
 hi NonText        cterm=NONE	 ctermfg=NONE
