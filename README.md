@@ -10,18 +10,12 @@
 
 ---
 
-<p align="center">
-  <p align="center"><img src"./black-white.png" /></p>
-</p>
-
 ## Installation
 
 - **Vim-Plug**: `Plug 'lafriakh/black-white.vim'`
 
 ## Screenshots
 
-<p align="center">
-  <p align="center"><img src"./black-white.png" /></p>
-</p>
+<p align="center"><img src"./black-white.png" /></p>
 
 TODO
