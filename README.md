@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">Black White</h1>
-  <p align="center">Minimal colorscheme.</p>
+  <h1 align="center">Black & White</h1>
+  <p align="center">Minimal vim colorscheme.</p>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <p align="center"><img src"black-white.png" /></p>
+  <p align="center"><img src"./black-white.png" /></p>
 </p>
 
 ## Installation
@@ -21,7 +21,7 @@
 ## Screenshots
 
 <p align="center">
-  <p align="center"><img src"black-white.png" /></p>
+  <p align="center"><img src"./black-white.png" /></p>
 </p>
 
 TODO
