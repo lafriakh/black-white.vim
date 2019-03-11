@@ -16,6 +16,8 @@
 
 ## Screenshots
 
-![Black & White](black-white.png)
+<p align="center">
+    ![Black & White](black-white.png)
+</p>
 
 TODO
